@@ -1,12 +1,12 @@
 /* Proyecto 3: Crea un programa en C++ para guardar las notas de N alumnos, N tiene que ser mayor o igual que 20 o menor o igual que 30, 
-esto se debe de verificar en el programa, y en caso de que el numero de alumnos este fuera del rango se debe de mostrar la opción de ingresar de nuevo el numero de alumnos.
+esto se debe de verificar en el programa, y en caso de que el numero de alumnos este fuera del rango, se debe de mostrar la opción de ingresar de nuevo el numero de alumnos.
 
 Una vez que tengamos los notas guardadas dentro de un arreglo, hay que sumar todas las calificaciones, mostrar el promedio del salón, 
 mostrar el alumno con nota mas alta, mostrar alumnos con nota promedio (rango de promedio – 1 a promedio + 1) y el alumno con menor nota.
 
 A los alumnos que tiene una nota menor o igual a 6 se les encargo un trabajo, este trabajo suma un punto mas a su nota. 
 Se debe de utilizar el arreglo con las notas originales para generar otro arreglo con las notas modificadas de estos alumnos. 
-Imprimir las dos notas en columnas diferentes.
+Imprimir las dos notas en columnas diferentes.  
 
 Al final se debe de mostrar la opción para volver a calcular mas notas de alumnos, o finalizar el programa. */
 
